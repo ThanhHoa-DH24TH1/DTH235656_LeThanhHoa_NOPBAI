@@ -25,8 +25,9 @@ def add(a,b):
 print(add(4,5))
 
 
-# Bài tâp 3
+# Bài tâp 4
 print("Chao cac ban!\n")
 
-# Bài tập 4
+# Bài tập 5
+
 print("Lê Thanh Hòa\n")
